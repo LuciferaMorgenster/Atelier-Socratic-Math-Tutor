@@ -1,0 +1,6 @@
+{
+  "name": "Atelier - Socratic Math Tutor",
+  "description": "A compassionate, Socratic AI math tutor that guides you through complex calculus and algebra problems step-by-step with interactive scratchpad and conceptual deep dives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
