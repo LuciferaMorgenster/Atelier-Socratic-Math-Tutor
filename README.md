@@ -4,6 +4,24 @@ A compassionate, Socratic AI learning companion designed for calculus and algebr
 
 ---
 
+Atelier - Socratic AI Math Tutor is an open-source project built with passion and dedication. Want to support the continued development of this project? You can!
+
+**Sponsor this project by making a donation via PayPal:**
+
+<div align="center">
+
+### ☕ [Donate via PayPal](https://paypal.me/luciferamorgenster)
+
+📧 **PayPal:** `luciferamorgenster@gmail.com`
+
+</div>
+
+Every donation, big or small, helps keep Ivory Tower BBS alive, fund new features, and support ongoing development. Thank you for your generosity! 🙏
+
+---
+
+## 💖 Atelier - Socratic AI Math Tutor
+
 ## Core Philosophy
 
 - **Never Just an Answer Sheet**: When a student uploads a photo of a math problem, the tutor transcribes the problem in LaTeX, confirms the mathematical branch, and guides the student exclusively through **Step 1**.
