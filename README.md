@@ -4,7 +4,9 @@ A compassionate, Socratic AI learning companion designed for calculus and algebr
 
 ---
 
-Atelier - Socratic AI Math Tutor is an open-source project built with passion and dedication. Want to support the continued development of this project? You can!
+## 💖 Sponsor Ivory Tower BBS
+
+Trivia Nexus is an open-source project built with passion and dedication. Want to support the continued development of this project? You can!
 
 **Sponsor this project by making a donation via PayPal:**
 
@@ -20,7 +22,7 @@ Every donation, big or small, helps keep Ivory Tower BBS alive, fund new feature
 
 ---
 
-## 💖 Atelier - Socratic AI Math Tutor
+## Socratic AI Math Tutor
 
 ## Core Philosophy
 
