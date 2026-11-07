@@ -113,3 +113,17 @@ Verify TypeScript types:
 ```bash
 npm run lint
 ```
+---
+
+<div align="center">
+
+### 💖 Support Atelier - Socratic AI Math Tutor
+
+This project is open-source and built with love.\
+Help keep the project alive and fund its continued development!
+
+**[☕ Donate via PayPal — luciferamorgenster@gmail.com](https://paypal.me/luciferamorgenster)**
+
+Thank you for your support! 🙏
+
+</div>
